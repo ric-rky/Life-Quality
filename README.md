@@ -56,7 +56,7 @@ Os dados utilizados, `Quality_of_Life.csv`, foram obtidos via interação com a 
 
 ## Possíveis Expansões
 
-- Análise temporal para avaliar tendências ao longo dos anos.
+- Análise via séries temporais para avaliar tendências ao longo dos anos.
 - Inclusão de mais indicadores econômicos e sociais.
 - Criação de dashboards interativos para visualização dinâmica.
 
