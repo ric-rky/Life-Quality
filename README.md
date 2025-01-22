@@ -1,6 +1,7 @@
 # Projeto de Qualidade de Vida
 
-Este projeto explora dados de qualidade de vida em diversos países, examinando aspectos como segurança, custo de vida, transporte e outros fatores socioeconômicos. O objetivo é identificar padrões, correlações e destacar diferenças entre países, com foco em comparações como Brasil versus Alemanha.
+Este projeto explora dados de qualidade de vida em diversos países, examinando aspectos como segurança, custo de vida, transporte e outros fatores socioeconômicos. O objetivo é identificar padrões, correlações e destacar diferenças entre países, com foco em comparações como Brasil versus Alemanha.  
+Os dados utilizados, `Quality_of_Life.csv`, foram obtidos via interação com a API do [Kaggle](https://www.kaggle.com/datasets). 
 
 ## Dados Utilizados
 
